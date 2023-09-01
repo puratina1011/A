@@ -66,4 +66,4 @@
 
 ほげ[ふが](https://github.com/)ぴよ
 
-![ほげ](/A/docs/hoge.png)
+![ほげ](docs/hoge.png)
